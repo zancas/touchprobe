@@ -1,0 +1,6 @@
+[package]
+name = "touchprobe"
+version = "0.1.0"
+authors = ["Za Wilgustus <wilcoxjg@gmail.com>"]
+
+[dependencies]
