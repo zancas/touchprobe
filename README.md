@@ -24,6 +24,14 @@ Brusselsprout
 =============
 http://www.brusselsprout.org/CNC/1P-Probe/
 
+Indoor Flyer (defunct)
+======================
+http://web.archive.org/web/20121126174517/http://www.indoor.flyer.co.uk:80/probe.htm
+
+Martin Kennedy's article
+========================
+http://www.homemetalshopclub.org/projects/touch_probe/touch_probe.html
+
 Rust
 ====
 https://doc.rust-lang.org/book/second-edition/ch12-03-improving-error-handling-and-modularity.html
