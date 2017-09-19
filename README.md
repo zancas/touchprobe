@@ -70,6 +70,13 @@ The "Drawings" link has excellent mechanical drawings showing the
 construction in detail.
 
 
+Styli
+=====
+Styli can be purchased for $20+ online:
+* http://www.renishaw.com/en/choosing-styli-for-inspection--6628
+* https://www.itpstyli.com/
+
+
 Rust
 ====
 https://doc.rust-lang.org/book/second-edition/ch12-03-improving-error-handling-and-modularity.html
